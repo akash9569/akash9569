@@ -1,9 +1,9 @@
-![logo](https://github.com/user-attachments/assets/32720067-9fc7-4bdf-bfe6-82e14f93b41a.gif)
+![logo](https://github.com/user-attachments/assets/32720067-9fc7-4bdf-bfe6-82e14f93b41a)
 
 <h1 align="center">Hi 👋, I'm Akash Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/e12c45d4-196a-44c5-94a4-e97428bc5f89.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/e12c45d4-196a-44c5-94a4-e97428bc5f89">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash9569&label=Profile%20views&color=0e75b6&style=flat" alt="akash9569" /> </p>
 

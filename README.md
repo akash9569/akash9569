@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **akashsingh.internship@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NjXRM2deDtE8glGkS9xndnQHLLvRnuye/view?usp=sharing](https://drive.google.com/file/d/1NjXRM2deDtE8glGkS9xndnQHLLvRnuye/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NjXRM2deDtE8glGkS9xndnQHLLvRnuye/view?usp=sharing](https://drive.google.com/file/d/1embt7VtVLZAXPhhGxnuBLeosDXy4MvIW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

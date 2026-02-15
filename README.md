@@ -1,103 +1,103 @@
-<h1 align="center">Hi 👋, I'm Akash Singh</h1>
-<h3 align="center">Frontend Developer | MERN Stack Learner | UI/UX Enthusiast</h3>
+<h1 align="center">Akash Singh</h1>
+<h3 align="center">Frontend Developer | MERN Stack Developer | UI-Focused Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Building+Responsive+Web+Applications;Passionate+About+Frontend+Development;Learning+Full+Stack+Development;Code.+Design.+Improve."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Specialized+in+React+%26+MERN+Stack;Focused+on+Clean+Architecture;Consistent.+Disciplined.+Improving+Daily."/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akash9569&label=Profile+Views&color=0e75b6&style=flat" alt="akash9569" />
+  <img src="https://komarev.com/ghpvc/?username=akash9569&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 Professional Identity
 
-🎓 Computer Science Student from India  
-💻 Passionate about building modern, responsive web applications  
-🌱 Currently improving my skills in **React.js, Node.js & MongoDB**  
-🎯 Focused on writing clean, scalable and maintainable code  
-📫 Reach me at: **akashsingh.internship@gmail.com**  
-📄 [View My Resume](https://drive.google.com/file/d/1embt7VtVLZAXPhhGxnuBLeosDXy4MvIW/view?usp=sharing)
+- 🎓 Computer Science Student – India  
+- 💼 Frontend & MERN Stack Developer  
+- 🧠 Strong focus on UI Architecture & Responsive Systems  
+- 🔍 Actively improving Data Structures & Algorithms  
+- ⚡ Specialized in Admin Dashboard Development  
+
+📫 Email: **akashsingh.internship@gmail.com**  
+📄 Resume: [View Resume](https://drive.google.com/file/d/1embt7VtVLZAXPhhGxnuBLeosDXy4MvIW/view?usp=sharing)
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Professional Profiles
 
 <p align="left">
-  <a href="https://twitter.com/akashsi41988194" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
   <a href="https://linkedin.com/in/akash-singh-a69213242" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Akash%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/iamakashsingh9" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://twitter.com/akashsi41988194" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@akashsi41988194-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/akashsingh799141" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   <a href="https://www.leetcode.com/aksingh7991" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Stack
 
-### 💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Frontend Engineering
+![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UtilityFirst-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-ComponentBased-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### ⚛️ Frameworks & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### Backend Development
+![NodeJS](https://img.shields.io/badge/NodeJS-Runtime-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-Framework-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗄 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Relational-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧠 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Programming
+![Java](https://img.shields.io/badge/Java-OOP-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-VersionControl-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Environment-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-UI%2FUX-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=akash9569&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=akash9569&theme=tokyonight&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akash9569&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=akash9569&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash9569&theme=tokyonight&layout=compact&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash9569&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash9569&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Engineering Focus
 
-- 🔹 Building full-stack MERN applications  
-- 🔹 Improving DSA skills for product-based companies  
-- 🔹 Writing clean and reusable React components  
-- 🔹 Making fully responsive admin dashboards  
-
----
-
-## 💡 Quote I Follow
-
-> “Consistency beats motivation. Code every day.”
+- Architecting scalable admin dashboards  
+- Building full-stack MERN applications  
+- Writing reusable and optimized React components  
+- Improving DSA for product-based companies  
 
 ---
 
+## 🧭 Engineering Philosophy
+
+> Build systems that are clean, scalable, and maintainable — not just functional.

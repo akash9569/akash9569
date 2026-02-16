@@ -27,7 +27,7 @@ Currently pursuing B.Tech in Computer Science with industry internship experienc
 **B.Tech – Computer Science & Engineering**  
 Dr. A.P.J. Abdul Kalam Technical University (2023 – Present)
 
-**Diploma – Computer Science & Engineering (74.5%)**  
+**Diploma – Computer Science & Engineering**  
 Board of Technical Education, UP (2020 – 2023)
 
 ---
